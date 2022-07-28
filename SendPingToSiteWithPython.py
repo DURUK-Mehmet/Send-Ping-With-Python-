@@ -2,7 +2,7 @@ import subprocess as sp
 #komutlar yazabilmemiz için subprecess kütüphanesini kullanıyoruz sp adlandırmasıyla
 
 accept=[]
-#pinglerin kabul edilen siteleri kaydetiğimiz accept ve rededilen denied listeleri
+#pinglerin kabul edilen ve edilmeyen siteleri kaydetiğimiz accept ve rededilen denied listeleri
 denied=[]
 
 file=open("D:/Eğitimler/Python/IPAddress.txt","r")
